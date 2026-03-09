@@ -33,7 +33,14 @@ A powerful Discord bot that allows users to create, manage, and track shortened 
 - **Error Handling**: Comprehensive error handling with user-friendly messages
 - **Message Filtering**: Guides users to use slash commands instead of text commands
 
-## 🛠️ Commands
+## � Screenshots
+
+### Bot Demo
+![Screenshot 1](screenshots/Screenshot%202026-03-10%20020302.png)
+
+![Screenshot 2](screenshots/Screenshot%202026-03-10%20020413.png)
+
+## �🛠️ Commands
 
 ### `/create url:<long_url>`
 Creates a new shortened URL from the provided long URL.
